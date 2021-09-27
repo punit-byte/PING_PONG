@@ -6,10 +6,10 @@
 body{
     height: 100vh;
     background: #48b8;
-background: linear-gradient(90deg, rgb(69, 143, 114) 0%, rgb(57, 155, 117) 27%, rgb(38, 151, 72) 98%)
+    background: linear-gradient(90deg, rgb(69, 143, 114) 0%, rgb(57, 155, 117) 27%, rgb(38, 151, 72) 98%);
     display: flex;
+    justify-content: center; 
     align-items: center;
-    justify-content: center;    
 }
 .board{
     height: 90vh;
