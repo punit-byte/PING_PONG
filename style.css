@@ -5,7 +5,7 @@
 }
 body{
     height: 100vh;
-    background: rgb(59,0,69);
+    background: #48b8;
 background: linear-gradient(90deg, rgb(69, 143, 114) 0%, rgb(57, 155, 117) 27%, rgb(38, 151, 72) 98%)
     display: flex;
     align-items: center;
@@ -14,7 +14,7 @@ background: linear-gradient(90deg, rgb(69, 143, 114) 0%, rgb(57, 155, 117) 27%, 
 .board{
     height: 90vh;
     width: 85vw;
-    background: rgb(0,10,80);
+    background:rgb(155, 40, 88);
     background:linear-gradient(90deg, rgb(180, 173, 74) 0%, rgb(137, 155, 58) 0%, rgb(187, 170, 73) 100%, rgba(255,0,250,1) 100%);
 }
 .ball{
